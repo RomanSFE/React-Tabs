@@ -40,7 +40,7 @@ function TabContentOne() {
                                 <ul className="after-checkbok-content">
                                     <li className="cont-one-content">
                                         <div className="cont-one-text">
-                                            <h5>Form</h5>
+                                            <h5>From</h5>
                                             <p>Flying from airport..</p>
                                         </div>
                                     </li>
