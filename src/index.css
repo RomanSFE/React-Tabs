@@ -254,11 +254,12 @@ li.cont-five-content {
 }
 .tab-main-content {
   background: #fff;
-  width: 75%;
+  width: 76%;
   position: absolute;
   z-index: -1;
-  margin-top: 52px;
-  margin: -45px 6px 4px -66px;
+  margin-top: -39px;
+  margin: 0px auto;
+  /* margin: -45px 6px 4px -66px; */
   border-radius: 5px;
 }
 }
