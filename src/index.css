@@ -257,8 +257,8 @@ li.cont-five-content {
   width: 76%;
   position: absolute;
   z-index: -1;
-  margin-top: -39px;
   margin: 0px auto;
+  margin-top: -39px;
   /* margin: -45px 6px 4px -66px; */
   border-radius: 5px;
 }
